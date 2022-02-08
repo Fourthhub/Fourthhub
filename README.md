@@ -5,7 +5,7 @@
 ### Hi, I'm Diego Echaure !!
 - 📚 Cloud Arquitect
 - 🏡 Madrid, Spain
-- 🏢 CLoud Arquitect at [Santander Global Tech](hhttps://santanderglobaltech.com/)
+- 🏢 Cloud Arquitect at [Santander Global Tech](hhttps://santanderglobaltech.com/)
 - ⚡ Fun fact: I started my own company which gives name to this profile
 ### Contact
 <div align="center">
